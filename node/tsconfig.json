@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2017", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+        "module": "commonjs",
+        // "rootDir": "./",
+        // "outFile": "./",
+        // "outDir": "./",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": false,
+        "skipLibCheck": true,
+        "typeRoots": [
+            "./src/@types",
+            "node_modules/@types"
+        ]
+    }
+}
