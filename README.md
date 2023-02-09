@@ -1,43 +1,47 @@
 
-<h1 align="center">NLW HEAT</h1>
+<h1 align="center">
+    <img alt="DoWhile 2021" title="DoWhile 2021" src="https://user-images.githubusercontent.com/67246528/138088560-ad0dfd1c-1dbb-447f-9642-a8f3008695a8.png" />
+</h1>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#autor">Autor</a>
+
+<br>
+
+## Description
+
+Fullstack application made for the DoWhile 2021 event with real time communication, at Rocketseat's NLW.
+
+## DoWhile 2021
+
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/67246528/138581308-5cde3aa4-9808-43fa-9e8f-53e4d7a8520e.png" align="left"/>
+  <img src="https://user-images.githubusercontent.com/67246528/138088767-84309a13-0ca9-44d6-8df3-9bfb25731cb5.png"/>
+   
 </p>
 
 
-<h4 align="center">
-	🚧  NLW Heat 🚀 Em construção...  🚧
-</h4>
+<br>
 
-### objetivo
+## Stack and tools
+* [Expo](https://expo.io/)
+* [Node.js](https://nodejs.org/en/)
+* [React](https://pt-br.reactjs.org/)
+* [React Native](https://reactnative.dev/)
+* [TypeScript](https://www.typescriptlang.org/)
 
-O objetivo dessa aplicaçao é os usuarios dar feedback sobre o DoWhile 2021 !
 
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
+## 🔖 Layout
+Veja o layout do projeto original através do figma abaixo:
+- [Layout Web](https://www.figma.com/community/file/1031699316177416916)
 
 ### Autor
 
 
-<a href="https://github.com/joao-victor-fonseca">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca"/>
+<a href="https://github.com/account" align="center" >
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84512746?v=4" width="100px;" alt="João Victor Fonseca" />
  <br />
- <sub><b>João Victor Fonseca</b></sub></a> <a href="https://github.com/joao-victor-fonseca" title="perfil">🚀</a>
+ <sub><b>João Victor Fonseca</b></sub></a> <a href="https://github.com/joao-victor-fonseca" title="perfil">🚀
+ </a>
 
 
-Feito com ❤️ por João Victor Fonseca 👋🏽 Entre em contato!
+Feito com ❤️ por João Victor Fonseca Assis 👋🏽 Entre em contato!
 
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Gmail)](mailto:joaovictorfosecaassis@gmail.com)
